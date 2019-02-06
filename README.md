@@ -1,4 +1,4 @@
-# ToDoApp_React
+# To Do App
 
 A todo app that I made to learn React, Webpack and SCSS.
 
